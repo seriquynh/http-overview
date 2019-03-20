@@ -1,6 +1,6 @@
 ## About
 
-This is the repository for my mini-seminar "HTTP Overview".
+This is the repository for a mini-seminar - "HTTP Overview".
 
 Slides are located at https://speakerdeck.com/xuanquynh/http-overview
 
@@ -27,7 +27,7 @@ yarn start
 
 ## Contributing
 
-- Thank you for considering contributing to `xuanquynhlabs/vscode-utilities` repository!
+- Thank you for considering contributing to `xuanquynhlabs/http-overview` repository!
 
 - Feel free to submit an issue or a pull request for your expectation!
 
@@ -35,4 +35,4 @@ yarn start
 
 ## License
 
-- The `xuanquynhlabs/vscode-utilities` repository is open-sourced software licensed under the [MIT license](LICENSE.md).
+- The `xuanquynhlabs/http-overview` repository is licensed under the [MIT license](LICENSE.md).
