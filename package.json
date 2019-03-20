@@ -1,0 +1,15 @@
+{
+  "name": "@xuanquynhlabs/http-overview",
+  "version": "1.0.0-dev",
+  "description": "HTTP Overview",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Quynh Xuan Nguyen <seriquynh@gmail.com>",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
