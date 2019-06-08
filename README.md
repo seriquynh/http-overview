@@ -27,12 +27,8 @@ yarn start
 
 ## Contributing
 
-- Thank you for considering contributing to `xuanquynhlabs/http-overview` repository!
-
-- Feel free to submit an issue or a pull request for your expectation!
-
-- All contributions are welcome and accepted via pull requests.
+Please read the [contribution guide](https://seriquynh.com/oss/contributing?github=serilabs/http-overview) for more information.
 
 ## License
 
-- The `xuanquynhlabs/http-overview` repository is licensed under the [MIT license](LICENSE.md).
+Please read the [MIT license](LICENSE.md) for more information.

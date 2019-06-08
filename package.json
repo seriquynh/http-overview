@@ -1,6 +1,6 @@
 {
   "name": "@xuanquynhlabs/http-overview",
-  "version": "1.0.0-dev",
+  "version": "1.0.0",
   "description": "HTTP Overview",
   "main": "index.js",
   "license": "MIT",
